@@ -1,6 +1,6 @@
 <?php
 
-namespace xfapp;
+namespace websdk\kysdk;
 
 /**
  * Browser Detection.
@@ -10,7 +10,7 @@ class Demo
 
     public static function test()
     {
-        echo 11;
+        echo 2222;
     }
 
 }

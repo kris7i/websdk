@@ -1,14 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2017/5/20
- * Time: 17:09
- */
-
-namespace xfapp;
-
-use limx\func\Curl;
+namespace websdk\kysdk;
+use websdk\func\Curl;
 
 class Clientauth
 {
