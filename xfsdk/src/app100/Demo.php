@@ -1,6 +1,6 @@
 <?php
 
-namespace websdk\kysdk;
+namespace xfsdk\app100;
 
 /**
  * Browser Detection.

@@ -1,0 +1,21 @@
+{
+    "name": "keyukeji/websdk",
+    "description": "keyukejiwebsdk ",
+    "keywords": ["keyukejiwebsdk"],
+    "authors": [
+        {
+            "name": "keyukeji",
+            "email": "keyukeji@keyukeji.com"
+        }
+    ],
+    "homepage":"http://100.keyukeji.com",
+    "license":"MIT",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "xfsdk\\": "src"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 <?php
-namespace websdk\func;
+namespace xfsdk\func;
 class Random
 {
     /**
